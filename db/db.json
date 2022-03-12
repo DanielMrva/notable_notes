@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Note 1",
+        "text": "This is the first note",
+        "id": "8491c48d-a6bc-4895-89f2-b745dacdb644"
+    },
+    {
+        "title": "Note 2",
+        "text": "2nd note!",
+        "id": "c2720ace-c072-4efc-9b02-712681c945de"
+    },
+    {
+        "title": "Note 3",
+        "text": "Now the word note is just looking silly.",
+        "id": "11a7f278-fcbe-4eaa-b2df-6e01ff2bbf9c"
+    },
+    {
+        "title": "Note 4",
+        "text": "Words",
+        "id": "aa3e4539-972c-4885-a00e-4999e5671e1e"
+    }
+]

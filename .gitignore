@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Other Folders
+Assets
+
+# Other Files
+README2.md
